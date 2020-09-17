@@ -50,6 +50,7 @@ function init() {
     scores = [0,0];
     roundScore = 0;
     activePlayer = 0;
+    gamePlaying  = true;
     
     document.querySelector('.dice').style.display = 'none';
     
