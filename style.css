@@ -161,20 +161,3 @@ i {
     margin-top: -4px;
     transition: margin 0.3s;
 }
-
-input[type=text] {
-    padding: 10px;
-    border: 1px solid #EB4D4D;
-    border-radius: 4px;
-    box-sizing: border-box;
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
-    top: 90%;
-    color: #555;
-    font-family: 'Lato';
-    text-align: center;
-    font-size: 17px;
-    width: 160px;
-    text-transform: uppercase;
-}
