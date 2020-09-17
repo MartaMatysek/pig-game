@@ -11,5 +11,4 @@ GAME RULES:
 -----------
 EXTENSION OF THE RULES:
 - A player looses his ENTIRE score when he rolls two 6 in a row. After that, it's the next player's turn
-- New input field where players can set the winning score, so that they can change the predefined score of 100
 - Second dice. The player looses his current score when one of them is a 1.
